@@ -41,3 +41,4 @@ Achieved **92% classification accuracy** using cleaned data and hyperparameter t
 | IDE/Notebook      | Jupyter in VSCode                  |
 
 # E-Waste-Management
+# E-Waste
